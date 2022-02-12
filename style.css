@@ -1,18 +1,19 @@
 body{
 margin:0;
 padding:0;
-background:url(st.jpg) repeat-y;
+background-image:url(st.jpg);
 background-size: cover;
 }
 .box{
-width: 450px;
-background: rgba(0, 0, 0, 0,5);
+width: 350px;
+background: rgba(0, 0, 0, 0,4);
 padding: 40px;
 text-align: center;
 margin: auto;
 margin-top: 5%;
-color: rgb(38, 0, 88);
-font-family: 'century Gothic',sans-serif
+color: rgba(0, 69, 134, 0.842);
+font-family: 'Century Gothic',sans-serif;
+text-decoration: none;
 }
 .box-img{
 border-radius: 25%;
