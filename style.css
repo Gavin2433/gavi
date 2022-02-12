@@ -1,7 +1,7 @@
 body{
 margin:0;
 padding:0;
-background:url(st.jpg) no-repeat;
+background:url(st.jpg) repeat-y;
 background-size: cover;
 }
 .box{
