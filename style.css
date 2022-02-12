@@ -4,6 +4,10 @@ padding:0;
 background-image:url(st.jpg);
 background-size: cover;
 }
+
+*{
+    color: white;
+}
 .box{
 width: 350px;
 background: rgba(0, 0, 0, 0.24);
@@ -11,7 +15,7 @@ padding: 40px;
 text-align: center;
 margin: auto;
 margin-top: 5%;
-color: rgba(0, 69, 134, 0.842);
+color: rgba(247, 250, 253, 0.842);
 font-family: 'Century Gothic',sans-serif;
 text-decoration: none;
 }
@@ -59,4 +63,31 @@ margin-top: 5%;
 color: rgba(0, 69, 134, 0.842);
 font-family: 'Century Gothic',sans-serif;
 text-decoration: none;
+}
+.nihao2{
+    width: 350px;
+    background: rgba(0, 0, 0, 0.24);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: rgba(0, 69, 134, 0.842);
+    font-family: 'Century Gothic',sans-serif;
+    text-decoration: none;
+}
+.nihao3{
+    width: 100%;
+    background: rgba(0, 0, 0, 0.24);
+    padding: 20px;
+    color: rgba(15, 15, 15, 0.842);
+    font-family: 'Century Gothic',sans-serif;
+    text-decoration: none;    
+}
+.nihao4{
+    width: 100%;
+    background: rgba(0, 0, 0, 0.24);
+    padding: 20px;
+    color: rgba(15, 15, 15, 0.842);
+    font-family: 'Century Gothic',sans-serif;
+    text-decoration: none;   
 }
