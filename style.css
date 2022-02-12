@@ -6,7 +6,7 @@ background-size: cover;
 }
 .box{
 width: 350px;
-background: rgba(0, 0, 0, 0,4);
+background: rgba(0, 0, 0, 0.24);
 padding: 40px;
 text-align: center;
 margin: auto;
@@ -46,4 +46,17 @@ padding:0;
 .box li a{
 text-decoration: none;
 font-size: 35px;
+}
+.nihao{
+list-style: none;
+
+width: 350px;
+background: rgba(0, 0, 0, 0.24);
+padding: 40px;
+text-align: center;
+margin: auto;
+margin-top: 5%;
+color: rgba(0, 69, 134, 0.842);
+font-family: 'Century Gothic',sans-serif;
+text-decoration: none;
 }
