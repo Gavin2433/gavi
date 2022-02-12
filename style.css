@@ -19,6 +19,17 @@ color: rgba(247, 250, 253, 0.842);
 font-family: 'Century Gothic',sans-serif;
 text-decoration: none;
 }
+.box li a{
+color: white;
+text-decoration: none;
+    font-size: 35px;
+    margin: 10px;
+    transition: all ease-in 0.5s;
+}
+.box li a :hover{
+    color: rgb(4, 203, 253);
+    font-size: xx-large;
+}
 .box-img{
 border-radius: 25%;
 width:200px;
